@@ -2,7 +2,7 @@
 Android App that lets you make a lemonade by tapping on the phone screen.
 
 
-<img width="161" alt="Screenshot 2024-07-05 at 10 41 18 AM" src="https://github.com/UjjwalKaur/Lemon_Squeeze/assets/75835619/e4393f16-945a-4c50-be1e-4e5b1e9139d6">
+<img width="161" alt="Screenshot 2024-07-05 at 10 41 18 AM" style = "display: block; margin-left: auto; margin-right: auto; width: 50%;" src="https://github.com/UjjwalKaur/Lemon_Squeeze/assets/75835619/e4393f16-945a-4c50-be1e-4e5b1e9139d6">
 <br>
 Tap the lemon tree to retrieve lemons.
 <br>
